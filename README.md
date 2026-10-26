@@ -1,1 +1,1 @@
-# agenttrust-playground.
+# agenttrust-playground
